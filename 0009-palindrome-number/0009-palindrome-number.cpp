@@ -7,7 +7,7 @@ public:
 
         while (x > reversedHalf) {
             reversedHalf = reversedHalf * 10 + (x % 10);
-            x = x  / 10;
+            x = (x - x % 10) / 10;
         }
 
         if (reversedHalf == x) return true;
