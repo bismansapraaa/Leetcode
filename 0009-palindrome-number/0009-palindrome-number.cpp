@@ -1,15 +1,25 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string s = to_string(x);
-        int n = s.length();
-        for(int i=0; i<n; i++)
-        {
-         if(s[i] != s[n-i-1])
-            {
-                return false;
-            }
+        if (x < 0 || (x % 10 == 0 && x != 0)) return false;
+        // int y = x;
+        int reversedHalf = 0;
+
+        while (x > reversedHalf) {
+            reversedHalf = reversedHalf * 10 + (x % 10);
+            x = x  / 10;
         }
-        return true;
+
+        if (reversedHalf == x) return true;
+        if (reversedHalf / 10 == x) return true;
+        return false;
+
+        // while (x != 0) {
+        //     reversed = reversed * 10 + (x % 10);
+        //     x = (x - x % 10) / 10;
+        //     cout << reversed << endl;
+        //     cout << x << endl;
+        // }
+        // return reversed == y;
     }
 };
