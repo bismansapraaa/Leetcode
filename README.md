@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bismansapraaa/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
