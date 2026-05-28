@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bismansapraaa/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bismansapraaa/Leetcode/tree/master/0009-palindrome-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bismansapraaa/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2651-calculate-delayed-arrival-time](https://github.com/bismansapraaa/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 ## Hash Table
 |  |
 | ------- |
