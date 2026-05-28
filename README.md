@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1773-count-items-matching-a-rule](https://github.com/bismansapraaa/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bismansapraaa/Leetcode/tree/master/0001-two-sum) |
+| [1773-count-items-matching-a-rule](https://github.com/bismansapraaa/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Design
 |  |
 | ------- |
