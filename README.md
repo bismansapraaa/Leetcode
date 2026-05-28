@@ -12,9 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bismansapraaa/Leetcode/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bismansapraaa/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
