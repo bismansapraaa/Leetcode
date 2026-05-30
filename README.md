@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bismansapraaa/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bismansapraaa/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/bismansapraaa/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/bismansapraaa/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/bismansapraaa/Leetcode/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bismansapraaa/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2651-calculate-delayed-arrival-time](https://github.com/bismansapraaa/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
@@ -60,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bismansapraaa/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/bismansapraaa/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
