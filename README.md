@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bismansapraaa/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/bismansapraaa/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/bismansapraaa/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bismansapraaa/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/bismansapraaa/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/bismansapraaa/Leetcode/tree/master/0509-fibonacci-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bismansapraaa/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/bismansapraaa/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bismansapraaa/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bismansapraaa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bismansapraaa/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bismansapraaa/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/bismansapraaa/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1773-count-items-matching-a-rule](https://github.com/bismansapraaa/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bismansapraaa/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bismansapraaa/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
@@ -100,4 +104,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bismansapraaa/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
