@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bismansapraaa/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/bismansapraaa/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/bismansapraaa/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/bismansapraaa/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/bismansapraaa/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/bismansapraaa/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/bismansapraaa/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/bismansapraaa/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/bismansapraaa/Leetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
