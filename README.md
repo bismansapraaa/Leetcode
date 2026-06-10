@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bismansapraaa/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bismansapraaa/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/bismansapraaa/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1773-count-items-matching-a-rule](https://github.com/bismansapraaa/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bismansapraaa/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bismansapraaa/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,4 +136,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bismansapraaa/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
