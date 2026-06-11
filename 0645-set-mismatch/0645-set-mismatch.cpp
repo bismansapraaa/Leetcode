@@ -7,12 +7,7 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             map1[nums[i]]++;
-            if(map1[nums[i]] ==2)
-            {
-                v1[0] = nums[i];
-                 x = nums[i];
-                 
-            }
+            
         }
         for(int i = 1; i <= nums.size(); i++)
 
