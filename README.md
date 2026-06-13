@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/bismansapraaa/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/bismansapraaa/Leetcode/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bismansapraaa/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/bismansapraaa/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1773-count-items-matching-a-rule](https://github.com/bismansapraaa/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/bismansapraaa/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/bismansapraaa/Leetcode/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/bismansapraaa/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/bismansapraaa/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
