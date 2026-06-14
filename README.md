@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bismansapraaa/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1773-count-items-matching-a-rule](https://github.com/bismansapraaa/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bismansapraaa/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/bismansapraaa/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/bismansapraaa/Leetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/bismansapraaa/Leetcode/tree/master/1603-design-parking-system) |
+| [3925-concatenate-array-with-reverse](https://github.com/bismansapraaa/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
 |  |
 | ------- |
