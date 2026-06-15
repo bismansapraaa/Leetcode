@@ -5,7 +5,7 @@ public:
         for(int i=0;i<words.size();i++)
         {
             string a= words[i];
-            stringstream ss(a);
+            
              x +=a[0];
         }
         return (x==s);
