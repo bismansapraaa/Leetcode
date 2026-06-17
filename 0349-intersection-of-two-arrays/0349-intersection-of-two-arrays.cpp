@@ -5,8 +5,13 @@ public:
         unordered_map <int,int> map1;
         for(int i=0;i<nums1.size();i++)
         {
-        
+            if(map1[nums1[i]]==1)
+            {
+                continue;
+            }
+            else{
             map1[nums1[i]] =1;
+            }
         }
         for(int j =0;j<nums2.size();j++)
         {
