@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/bismansapraaa/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bismansapraaa/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/bismansapraaa/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bismansapraaa/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/bismansapraaa/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/bismansapraaa/Leetcode/tree/master/0231-power-of-two) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bismansapraaa/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bismansapraaa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/bismansapraaa/Leetcode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bismansapraaa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bismansapraaa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bismansapraaa/Leetcode/tree/master/0136-single-number) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bismansapraaa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bismansapraaa/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
