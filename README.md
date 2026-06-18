@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bismansapraaa/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bismansapraaa/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/bismansapraaa/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/bismansapraaa/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bismansapraaa/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/bismansapraaa/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bismansapraaa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bismansapraaa/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bismansapraaa/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/bismansapraaa/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bismansapraaa/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bismansapraaa/Leetcode/tree/master/0283-move-zeroes) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bismansapraaa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/bismansapraaa/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bismansapraaa/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bismansapraaa/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bismansapraaa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
