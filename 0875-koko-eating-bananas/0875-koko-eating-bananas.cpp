@@ -4,7 +4,7 @@ public:
         long long hours = 0;
         for (int bananas : piles) 
         {
-            hours += (bananas + speed - 1) / speed;
+            hours += ceil((double)bananas / speed);
         }
         return hours <= h;
     }
