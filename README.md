@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bismansapraaa/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bismansapraaa/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bismansapraaa/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bismansapraaa/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/bismansapraaa/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/bismansapraaa/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2490-circular-sentence](https://github.com/bismansapraaa/Leetcode/tree/master/2490-circular-sentence) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/bismansapraaa/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bismansapraaa/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3612-process-string-with-special-operations-i](https://github.com/bismansapraaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
@@ -291,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bismansapraaa/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bismansapraaa/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
