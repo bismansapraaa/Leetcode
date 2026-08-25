@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bismansapraaa/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bismansapraaa/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/bismansapraaa/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bismansapraaa/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1773-count-items-matching-a-rule](https://github.com/bismansapraaa/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/bismansapraaa/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bismansapraaa/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/bismansapraaa/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/bismansapraaa/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1603-design-parking-system](https://github.com/bismansapraaa/Leetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
@@ -302,5 +304,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/bismansapraaa/Leetcode/tree/master/0860-lemonade-change) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/bismansapraaa/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bismansapraaa/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
