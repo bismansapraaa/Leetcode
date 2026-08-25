@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bismansapraaa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bismansapraaa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/bismansapraaa/Leetcode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/bismansapraaa/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bismansapraaa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bismansapraaa/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bismansapraaa/Leetcode/tree/master/0136-single-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bismansapraaa/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/bismansapraaa/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bismansapraaa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/bismansapraaa/Leetcode/tree/master/0509-fibonacci-number) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bismansapraaa/Leetcode/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/bismansapraaa/Leetcode/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bismansapraaa/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bismansapraaa/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
