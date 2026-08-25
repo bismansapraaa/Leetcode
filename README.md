@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bismansapraaa/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bismansapraaa/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bismansapraaa/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1773-count-items-matching-a-rule](https://github.com/bismansapraaa/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/bismansapraaa/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2490-circular-sentence](https://github.com/bismansapraaa/Leetcode/tree/master/2490-circular-sentence) |
@@ -301,4 +302,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/bismansapraaa/Leetcode/tree/master/0860-lemonade-change) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bismansapraaa/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
