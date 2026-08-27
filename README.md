@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bismansapraaa/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/bismansapraaa/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bismansapraaa/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/bismansapraaa/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bismansapraaa/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bismansapraaa/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bismansapraaa/Leetcode/tree/master/0231-power-of-two) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bismansapraaa/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bismansapraaa/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/bismansapraaa/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bismansapraaa/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/bismansapraaa/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/bismansapraaa/Leetcode/tree/master/0278-first-bad-version) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/bismansapraaa/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/bismansapraaa/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bismansapraaa/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
