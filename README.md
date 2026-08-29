@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bismansapraaa/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/bismansapraaa/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bismansapraaa/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3945-digit-frequency-score](https://github.com/bismansapraaa/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bismansapraaa/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bismansapraaa/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bismansapraaa/Leetcode/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/bismansapraaa/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
