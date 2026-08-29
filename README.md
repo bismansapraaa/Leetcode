@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bismansapraaa/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/bismansapraaa/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/bismansapraaa/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/bismansapraaa/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/bismansapraaa/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bismansapraaa/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bismansapraaa/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bismansapraaa/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bismansapraaa/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/bismansapraaa/Leetcode/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bismansapraaa/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bismansapraaa/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bismansapraaa/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/bismansapraaa/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bismansapraaa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/bismansapraaa/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/bismansapraaa/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bismansapraaa/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
