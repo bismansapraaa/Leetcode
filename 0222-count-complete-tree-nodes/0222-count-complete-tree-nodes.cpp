@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int rightheight(TreeNode* node)
+    int leftheight(TreeNode* node)
     {
         int ht = 0;
         while(node)
@@ -21,7 +21,7 @@ public:
         }
         return ht;
     }
-     int leftheight(TreeNode* node)
+     int rightheight(TreeNode* node)
     {
         int ht = 0;
         while(node)
