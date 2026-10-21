@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/bismansapraaa/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bismansapraaa/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bismansapraaa/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bismansapraaa/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/bismansapraaa/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/bismansapraaa/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2490-circular-sentence](https://github.com/bismansapraaa/Leetcode/tree/master/2490-circular-sentence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bismansapraaa/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bismansapraaa/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1720-decode-xored-array](https://github.com/bismansapraaa/Leetcode/tree/master/1720-decode-xored-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bismansapraaa/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/bismansapraaa/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bismansapraaa/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bismansapraaa/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/bismansapraaa/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bismansapraaa/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/bismansapraaa/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
