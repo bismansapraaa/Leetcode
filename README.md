@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/bismansapraaa/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bismansapraaa/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/bismansapraaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/bismansapraaa/Leetcode/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bismansapraaa/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3477-fruits-into-baskets-ii](https://github.com/bismansapraaa/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/bismansapraaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/bismansapraaa/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
