@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bismansapraaa/Leetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/bismansapraaa/Leetcode/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bismansapraaa/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/bismansapraaa/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3477-fruits-into-baskets-ii](https://github.com/bismansapraaa/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/bismansapraaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/bismansapraaa/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/bismansapraaa/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bismansapraaa/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/bismansapraaa/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Bracket Sequences
 |  |
 | ------- |
