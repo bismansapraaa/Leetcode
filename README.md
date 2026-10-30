@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/bismansapraaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/bismansapraaa/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/bismansapraaa/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bismansapraaa/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bismansapraaa/Leetcode/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/bismansapraaa/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/bismansapraaa/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/bismansapraaa/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/bismansapraaa/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/bismansapraaa/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/bismansapraaa/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/bismansapraaa/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
 |  |
