@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bismansapraaa/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bismansapraaa/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/bismansapraaa/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2469-convert-the-temperature](https://github.com/bismansapraaa/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/bismansapraaa/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/bismansapraaa/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bismansapraaa/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
