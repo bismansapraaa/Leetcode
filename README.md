@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bismansapraaa/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bismansapraaa/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/bismansapraaa/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/bismansapraaa/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3945-digit-frequency-score](https://github.com/bismansapraaa/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/bismansapraaa/Leetcode/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bismansapraaa/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bismansapraaa/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/bismansapraaa/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Interactive
 |  |
 | ------- |
