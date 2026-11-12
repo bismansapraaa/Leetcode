@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/bismansapraaa/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bismansapraaa/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bismansapraaa/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bismansapraaa/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bismansapraaa/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-fruits-into-baskets-ii](https://github.com/bismansapraaa/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3668-restore-finishing-order](https://github.com/bismansapraaa/Leetcode/tree/master/3668-restore-finishing-order) |
